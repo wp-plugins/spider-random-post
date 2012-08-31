@@ -43,3 +43,35 @@ After downloading the ZIP file
 6.  Once it is complete, activate the plugin.  
   
 If any problem occurs with Spider Random Post, please contact us info@web-dorado.com.  
+
+== Spider Random Post user manual==        
+    
+= Step by step guide for Spider Random Post, Step 1:  Installing Spider Random Post =    
+
+
+1.1 Minimum requirements for the installation of Spider Random Post
+
+•	PHP 5.x
+•	Wordpress 3.0 +
+
+1.2 Perform a new installation of the Spider Random Post
+
+Installation instructions for the Spider Random Post
+After downloading the ZIP file of Spider Random Post
+1.	Login to your WordPress site and head over the 'Plugins' menu 
+2.	Click 'Add New'
+3.	Choose the 'Upload' option
+4.	Upload the downloaded ZIP file of Spider Random Post
+5.	Once it is complete, activate the plugin.
+If the installation of Spider Random Post succeeded you will see the message in the picture. If any problem occurs while installing Spider Random Post , please contact us info@web-dorado.com
+
+== Step by step guide for Spider Random Post ==        
+    
+= Step 2:  Using the widget =
+
+2.1 Add it to a sidebar (Spider Random Post will be available in Widgets under the menu item Appearance). Here are the parameters of the widget. 
+2.2 Title. Fill the title for the widget on Spider Random Post
+2.3 Quantity of  Random Posts. Show the number of random posts on Spider Random Post.
+2.4 Auto Update. Choose whether you want auto update or not on the Spider Random Post.
+2.5 Visualization. From the given list choose the style of displaying the random posts on Spider Random Post (visual effects).
+2.6 Time of update(sec). Define the period of the update of the random posts on Spider Random Post.     
