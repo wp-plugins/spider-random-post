@@ -49,7 +49,7 @@ If any problem occurs with Spider [Random Post](http://web-dorado.com/products/w
 
 == Spider Random Post user manual==        
     
-= Step by step guide for Spider [Random Post](http://web-dorado.com/products/wordpress-random-post.html) , =
+###Step by step guide for Spider [Random Post](http://web-dorado.com/products/wordpress-random-post.html)  
 = Step 1:  Installing Spider Random Post =    
 
 
@@ -69,7 +69,7 @@ After downloading the ZIP file of Spider Random Post
 5.	Once it is complete, activate the plugin.  
 If the installation of Spider Random Post succeeded you will see the message in the picture. If any problem occurs while installing Spider Random Post , please contact us info@web-dorado.com  
 
-= Step by step guide for Spider [Random Post](http://web-dorado.com/products/wordpress-random-post.html) =    
+###Step by step guide for Spider [Random Post](http://web-dorado.com/products/wordpress-random-post.html)  
 = Step 2:  Using the widget =  
 
 2.1 Add it to a sidebar (Spider Random Post will be available in Widgets under the menu item Appearance). Here are the parameters of the widget.   
