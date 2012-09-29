@@ -17,8 +17,10 @@ Spider Random Post allows you to show posts in a random order in a sidebar. You 
 Spider Random Post is a small but very smart solution for your WordPress web site. Spider Random Post allows you to show posts in a random order in a sidebar. You can display simultaneously as many random posts as you need with chosen effect and delay time.
 
 ###If you want to have possibility to choose the particular category of posts to display randomly, you can buy the commercial version [here.](http://web-dorado.com/products/wordpress-random-post.html)    
-
-###Features of Spider  [Random Post](http://web-dorado.com/products/wordpress-random-post.html) :  
+  
+    
+  
+###Features of Spider  [Random Post](http://web-dorado.com/products/wordpress-random-post.html)  
   
 * WordPres 3.0+;  
 * Possibility to customize the number of randomly displayed articles, auto update and updating time  
