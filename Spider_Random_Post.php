@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Spider Random Post
+Plugin Name: Random Post
 Plugin URI: http://web-dorado.com/products/spider-random-post.html
 Description: Spider Random Post allows you to show posts in a random order in a sidebar.
 Version: 1.0.0

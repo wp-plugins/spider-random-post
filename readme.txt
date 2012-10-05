@@ -1,4 +1,4 @@
-=== Spider Random Post ===  
+=== Random Post ===  
 Contributors: webdorado  
 Donate link: http://web-dorado.com/products/wordpress-random-post.html  
 Tags: wordpress random, random post, random text, wordpress random effects  
