@@ -1,6 +1,6 @@
 === Random Post ===  
 Contributors: webdorado  
-Donate link: http://web-dorado.com/products/wordpress-random-post.html  
+Donate link: http://webdorado.org/products/wordpress-random-post.html  
 Tags: wordpress random, random post, random text, wordpress random effects  
 Requires at least: 3.0  
 Tested up to: 3.5 
@@ -12,15 +12,15 @@ Spider Random Post allows you to show posts in a random order in a sidebar. You 
   
 == Description ==  
   
-###Spider [Random Post](http://web-dorado.com/products/wordpress-random-post.html)  
+###Spider [Random Post](http://webdorado.org/products/wordpress-random-post.html)  
   
 Spider Random Post plugin is a small but very smart solution for your WordPress web site. WordPress Random Post allows you to show posts in a random order in a sidebar. You can display simultaneously as many random posts as you need with chosen effect and delay time.
 
-###If you want to have possibility to choose the particular category of posts to display randomly, you can buy the commercial version [here.](http://web-dorado.com/products/wordpress-random-post.html)    
+###If you want to have possibility to choose the particular category of posts to display randomly, you can buy the commercial version [here.](http://webdorado.org/products/wordpress-random-post.html)    
   
     
   
-###Features of Spider  [Random Post](http://web-dorado.com/products/wordpress-random-post.html)  
+###Features of Spider  [Random Post](http://webdorado.org/products/wordpress-random-post.html)  
   
 * WordPres 3.0+;  
 * Possibility to customize the number of randomly displayed articles, auto update and updating time  
@@ -29,7 +29,7 @@ Spider Random Post plugin is a small but very smart solution for your WordPress 
 
 == Installation ==  
   
-####Thank you for your interest in Spider [Random Post](http://web-dorado.com/products/wordpress-random-post.html).  
+####Thank you for your interest in Spider [Random Post](http://webdorado.org/products/wordpress-random-post.html).  
   
 Minimum requirements:  
   
@@ -45,11 +45,11 @@ After downloading the ZIP file
 5.  Click **Install Now** button.  
 6.  Once it is complete, activate the plugin.  
   
-If any problem occurs with Spider [Random Post](http://web-dorado.com/products/wordpress-random-post.html), please contact us info@web-dorado.com.  
+If any problem occurs with Spider [Random Post](http://webdorado.org/products/wordpress-random-post.html), please contact us info@webdorado.org.  
 
 == Spider Random Post user manual==        
     
-###Step by step guide for Spider [Random Post](http://web-dorado.com/products/wordpress-random-post.html)  
+###Step by step guide for Spider [Random Post](http://webdorado.org/products/wordpress-random-post.html)  
 = Step 1:  Installing Spider Random Post =    
 
 
@@ -67,9 +67,9 @@ After downloading the ZIP file of Spider Random Post
 3.	Choose the 'Upload' option  
 4.	Upload the downloaded ZIP file of Spider Random Post  
 5.	Once it is complete, activate the plugin.  
-If the installation of Spider Random Post succeeded you will see the message in the picture. If any problem occurs while installing Spider Random Post , please contact us info@web-dorado.com  
+If the installation of Spider Random Post succeeded you will see the message in the picture. If any problem occurs while installing Spider Random Post , please contact us info@webdorado.org  
 
-###Step by step guide for Spider [Random Post](http://web-dorado.com/products/wordpress-random-post.html)  
+###Step by step guide for Spider [Random Post](http://webdorado.org/products/wordpress-random-post.html)  
 = Step 2:  Using the widget =  
 
 2.1 Add it to a sidebar (Spider Random Post will be available in Widgets under the menu item Appearance). Here are the parameters of the widget.   
