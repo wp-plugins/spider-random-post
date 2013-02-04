@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: WordPress Random Post
-Plugin URI: http://webdorado.org/products/spider-random-post.html
+Plugin URI: http://web-dorado.com/products/spider-random-post.html
 Description: Spider Random Post allows you to show posts in a random order in a sidebar.
 Version: 1.0.1
-Author: http://webdorado.org/
+Author: http://web-dorado.com/
 Author License: GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
 */
 
@@ -335,8 +335,8 @@ $spider_random_article_id++;?>
 		$defaults = array( 'title' => '', Category => '1', quantity_of_posts => '1', AutoUpdate => '1', Style_sra =>'1',  Updating_Time => '10');
 		$instance = wp_parse_args( (array) $instance, $defaults ); ?>
 <table><tr><td style="font-size:16px;">
-		<a href="http://webdorado.org/products/spider-random-post.html" target="_blank" style="color:red; text-decoration:none;">
-		<img src="<?php echo plugins_url('header.png',__FILE__) ?>" border="0" alt="www.webdorado.org" width="215"><br>
+		<a href="http://web-dorado.com/products/spider-random-post.html" target="_blank" style="color:red; text-decoration:none;">
+		<img src="<?php echo plugins_url('header.png',__FILE__) ?>" border="0" alt="www.web-dorado.com" width="215"><br>
 		"Select Category" option is disabled. If you wand to show posts from a chosen category,  <br />
 Get the full version&nbsp;&nbsp;&nbsp;&nbsp;
 		</a>
