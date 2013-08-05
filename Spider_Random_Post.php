@@ -3,7 +3,7 @@
 Plugin Name: WordPress Random Post
 Plugin URI: http://web-dorado.com/products/spider-random-post.html
 Description: Spider Random Post allows you to show posts in a random order in a sidebar.
-Version: 1.0.1
+Version: 1.0.2
 Author: http://web-dorado.com/
 Author License: GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
 */
@@ -222,7 +222,7 @@ setTimeout("ajax_for_post("+id+","+time+","+category+","+limit+","+style+")",200
 
 function ajax_for_post(id,time,category,limit,style){
 	jQuery.ajax({
- 		 url: "<?php echo plugins_url("spider_rand_front_end.php",__FILE__)."?categori_id="; ?>"+category+"&count_pages="+limit
+ 		 url: "<?php echo plugins_url("spider_rand_front_end.php",__FILE__)."?categori_id="; ?>"+category+"&count_pages="+limit+"&randd="+Math.floor(Math.random()*100000000000000)
 		}).done(function(responseText) { 
  	 autoUpdate(id,time,category,limit,style,responseText);
 });
@@ -268,7 +268,7 @@ echo "autoUpdate(id,time,category,limit,style,xmlHttp.responseText);";
 	}
 }
 
-xmlHttp.open("GET","<?php echo plugins_url("spider_rand_front_end.php",__FILE__)."?categori_id="; ?>"+category+"&count_pages="+limit,true);
+xmlHttp.open("GET","<?php echo plugins_url("spider_rand_front_end.php",__FILE__)."?categori_id="; ?>"+category+"&count_pages="+limit+"&randd="+Math.floor(Math.random()*100000000000000),true);
 xmlHttp.send(null);
 
 }
