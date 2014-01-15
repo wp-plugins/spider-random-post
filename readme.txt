@@ -1,7 +1,7 @@
 === Random Post ===  
 Contributors: webdorado  
 Donate link: http://web-dorado.com/products/wordpress-random-post.html  
-Tags: wordpress random, random post, random text, wordpress random effects  
+Tags: random, random post, random posts, content slider,  posts slider,related post,  Post, posts, widget,Random post widget, next post,  random image, Random post by click, post-plugins, featured post, posts widget, featured, slider, wordpress slider, featured-content-slider, slide show, slide 
 Requires at least: 3.0  
 Tested up to: 3.7.1 
 Stable tag: 1.0.2
