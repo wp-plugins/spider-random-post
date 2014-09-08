@@ -3,7 +3,7 @@ Contributors: webdorado
 Donate link: http://web-dorado.com/products/wordpress-random-post.html  
 Tags: random, random post, random posts, content slider,  posts slider,related post,  Post, posts, widget,Random post widget, next post,  random image, Random post by click, post-plugins, featured post, posts widget, featured, slider, wordpress slider, featured-content-slider, slide show, slide 
 Requires at least: 3.0  
-Tested up to: 3.7.1 
+Tested up to: 4.0 
 Stable tag: 1.0.2
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
@@ -11,8 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Spider Random Post allows you to show posts in a random order in a sidebar. You can display simultaneously as many random posts as you need.  
   
 == Description ==  
-  
-###Spider [Random Post](http://web-dorado.com/products/wordpress-random-post.html)  
+Spider [Random Post](http://web-dorado.com/products/wordpress-random-post.html)  
   
 Spider Random Post plugin is a small but very smart solution for your WordPress web site. WordPress Random Post allows you to show posts in a random order in a sidebar. You can display simultaneously as many random posts as you need with chosen effect and delay time.
 
