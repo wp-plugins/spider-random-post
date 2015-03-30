@@ -11,6 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Spider Random Post allows you to show posts in a random order in a sidebar. You can display simultaneously as many random posts as you need.  
   
 == Description ==  
+Display random posts on the sidebar from the same category. You can choose the number of posts and the different effects available. Try for free!   
+  
 Spider [Random Post](http://web-dorado.com/products/wordpress-random-post.html)  
   
 Spider Random Post plugin is a small but very smart solution for your WordPress web site. WordPress Random Post allows you to show posts in a random order in a sidebar. You can display simultaneously as many random posts as you need with chosen effect and delay time.
