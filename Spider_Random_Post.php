@@ -3,7 +3,7 @@
 Plugin Name: WordPress Random Post
 Plugin URI: http://web-dorado.com/products/spider-random-post.html
 Description: Spider Random Post allows you to show posts in a random order in a sidebar.
-Version: 1.0.2
+Version: 1.0.3
 Author: http://web-dorado.com/
 Author License: GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
 */
@@ -332,7 +332,7 @@ $spider_random_article_id++;?>
 		function form($instance) {
 		$url = plugins_url(); //url plugin
 
-		$defaults = array( 'title' => '', Category => '1', quantity_of_posts => '1', AutoUpdate => '1', Style_sra =>'1',  Updating_Time => '10');
+		$defaults = array( 'title' => '', 'Category' => '1', 'quantity_of_posts' => '1', 'AutoUpdate' => '1', 'Style_sra' =>'1',  'Updating_Time' => '10');
 		$instance = wp_parse_args( (array) $instance, $defaults ); ?>
 <table><tr><td style="font-size:16px;">
 		<a href="http://web-dorado.com/products/spider-random-post.html" target="_blank" style="color:red; text-decoration:none;">
@@ -351,18 +351,19 @@ Get the full version&nbsp;&nbsp;&nbsp;&nbsp;
 <tr>
 <td style="width:120px" class="paramlist_key"><span class="editlinktip"><label style="font-size:10px" id="paramsstandcatid-lbl" for="Category" class="hasTip">Select Category</label></span></td>
 <td class="paramlist_value">
-<select disabled="disabled" name="<?php echo $this->get_field_name('Category'); ?>" id="<?php echo $this->get_field_id('category') ?>" style="font-size:10px" class="inputbox">
+<select  name="<?php echo $this->get_field_name('Category'); ?>" id="<?php echo $this->get_field_id('category') ?>" disabled="disabled" style="font-size:10px" class="inputbox">
 <option value="0">Select Category</option>
 
 <?php 
 $categories=get_categories();
 $category_count=count($categories);
-for($i=0;$i<$category_count;$i++)
+//for($i=0;$i<$category_count;$i++)
+foreach($categories as $categori)
 {
 ?>
 
 
-<option value="<?php echo $categories[$i]->term_id?>" <?php if($instance['Category']==$categories[$i]->term_id) echo  'selected="selected"'; ?>><?php echo $categories[$i]->name ?></option>
+<option value="<?php echo $categori->term_id?>" <?php if($instance['Category']==$categori->term_id) echo  'selected="selected"'; ?>><?php echo $categori->name ?></option>
 
 <?php
 }
