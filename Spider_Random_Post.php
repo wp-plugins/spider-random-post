@@ -3,7 +3,7 @@
 Plugin Name: WordPress Random Post
 Plugin URI: http://web-dorado.com/products/spider-random-post.html
 Description: Spider Random Post allows you to show posts in a random order in a sidebar.
-Version: 1.0.3
+Version: 1.0.4
 Author: http://web-dorado.com/
 Author License: GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
 */
@@ -26,7 +26,7 @@ add_action('wp_enqueue_scripts', 'spider_random_article_scripts');
 		function spider_random_article() {
 			$widget_ops = array( 'classname' => 'spider_random_article', 'description' => 'Spider Random Post allows you to show posts in a random order in a sidebar.' ); // Widget Settings
 			$control_ops = array( 'id_base' => 'spider_random_article' ); // Widget Control Settings
-			$this->WP_Widget( 'spider_random_article', 'Spider Random Post', $widget_ops, $control_ops ); // Create the widget
+			parent::__construct('spider_random_article', 'Spider Random Post', $widget_ops, $control_ops ); // Create the widget
 		}
 
 	// Extract Args //
